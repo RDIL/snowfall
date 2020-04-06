@@ -1,2 +1,3 @@
-# snowfall
-Code to make it snow on our site. 
+# Snowfall
+
+Code to make it snow on a website. 
